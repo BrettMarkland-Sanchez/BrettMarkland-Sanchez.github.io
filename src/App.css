@@ -58,12 +58,6 @@ small {
     width: 100%;
 }
 
-@media screen and (max-width: 700px) {
-    header {
-        display: inline-block;
-    }
-}
-
 .nav {
     display: flex;
     justify-content: flex-end;
@@ -191,13 +185,31 @@ small {
 }
 
 @media screen and (max-width: 700px) {
+    .main {
+        padding: 0px 20px;
+    }
+    .card {
+        margin: .5em;
+    }
+    .section {
+        width: 100%;
+    }
+    .flex {
+        flex-wrap: wrap;
+    }
+    .header {
+        flex-direction: column;
+    }
+    .footer {
+        margin-top: 1em;
+    }
     #pageTitle {
         width: 100%;
         padding-left: 0;
         margin-bottom: 1em;
     }
     #icons {
-        float: right; 
+        align-self: flex-end; 
     }
     .container {
         width: 100% !important;

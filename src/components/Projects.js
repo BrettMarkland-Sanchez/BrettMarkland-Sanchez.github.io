@@ -12,7 +12,7 @@ export default function Projects () {
     return (
         <div>
             <div className="flex" id="about">
-                <h2>About</h2>
+            <div className="section"><h2>About</h2></div>
                 <div id="profile">
                     <p>
                         <img id="photo" src="./images/Brett Profile Photo.png" alt="Brett Markland-Sanchez" />
@@ -21,7 +21,7 @@ export default function Projects () {
                 </div>
             </div>
             <div className="flex" id="work">
-                <h2>Work</h2>
+                <div className="section"><h2>Work</h2></div>
                 <div id="content">
                     <div className="card" style={imgLinks[0]}>
                         <h2>Code Quiz</h2>
