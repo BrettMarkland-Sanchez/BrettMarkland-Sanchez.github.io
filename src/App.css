@@ -211,6 +211,9 @@ small {
     #icons {
         align-self: flex-end; 
     }
+    #download {
+        margin-bottom: 1em;
+    }
     .container {
         width: 100% !important;
     }
