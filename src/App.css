@@ -103,7 +103,7 @@ small {
     background-image: url("https://via.placeholder.com/300x200");
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 5px 5px 10px 5px;
+    padding: 5px;
     margin: 1em 0 1em 1em;
     float: left;
     height: 200px;
@@ -115,7 +115,7 @@ small {
     background: rgba(255, 255, 255, .9);
     border-radius: 10px;
     text-align: center;
-    margin-bottom: 45%;
+    margin-bottom: 120px;
 }
 
 .card a {
@@ -139,7 +139,7 @@ small {
 .contactCard {
     background-color: rgb(252, 213, 161);
     border: thick solid white;
-    margin: .5rem 0 1rem 0;
+    margin: .5em 0 1em 1em;
 }
 
 .contactCard a {
