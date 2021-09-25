@@ -212,7 +212,7 @@ small {
         align-self: flex-end; 
     }
     #download {
-        margin: 1em;
+        margin-left: 1em;
     }
     .container {
         width: 100% !important;
@@ -235,7 +235,7 @@ small {
 }
 
 #download {
-    margin-left: 1em;
+    margin: 1em;
 }
 
 #resume a:hover {
