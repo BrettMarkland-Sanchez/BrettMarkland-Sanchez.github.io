@@ -212,7 +212,7 @@ small {
         align-self: flex-end; 
     }
     #download {
-        margin-bottom: 1em;
+        margin: 1em;
     }
     .container {
         width: 100% !important;
