@@ -3,6 +3,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   Web development portfolio utilizing React JS to present projects using a single-page layout design.
+  ## Repository
+  ### https://github.com/BrettMarkland-Sanchez/brettmarkland-sanchez.github.io
   ## Deployed Site
   ### https://brettmarkland-sanchez.github.io/
   &nbsp;   
